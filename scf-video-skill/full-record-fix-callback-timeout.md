@@ -6,15 +6,12 @@
 
 ## 修改方式
 
-修改路径是：callback函数 -> 函数管理 -> 函数代码
-代码路径是：src -> handlers -> callback-worker.js
+修改路径是：callback函数 -> 函数管理 -> 函数代码 代码路径是：src -> handlers -> callback-worker.js
 
+![](.full-recored-fix-callback-timeout\_images/full-recored-callback-fix-code.png)
 
-![](.full-recored-fix-callback-timeout_images/full-recored-callback-fix-code.png)
+修改完成之后，<mark style="color:red;">点击部署</mark>
 
-修改完成之后，点击部署
+![](.full-recored-fix-callback-timeout\_images/code-deploy.png)
 
-![](.full-recored-fix-callback-timeout_images/code-deploy.png)
-
-补充：超时时间修改，比较简单，在$LATEST版本承接流量的前提下，
-也可以直接在$LATEST版本上操作修改和部署，但是建议在没有录制任务的时候操作。
+补充：超时时间修改，比较简单，在$LATEST版本承接流量的前提下， 也可以直接在$LATEST版本上操作修改和部署，但是建议在没有录制任务的时候操作。
