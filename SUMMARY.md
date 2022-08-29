@@ -9,3 +9,5 @@
   * [转码模板的回调URL不支持https](scf-video-trouble/transcode-callback-https.md)
 * [SCF云函数最佳实践](scf-common-skill/README.md)
   * [SLS Cli方式实现多namespace发布](scf-common-skill/sls-cli-mutil-namespace.md)
+* [SCF云函数问题排查](scf-common-trouble/README.md)
+  * [SCF异步执行场景问题](scf-common-trouble/async-exec.md)
