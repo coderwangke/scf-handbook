@@ -7,6 +7,7 @@
   * [全景录制中转cos播放卡顿问题](scf-video-skill/full-record-cos-play-stuck.md)
 * [SCF音视频相关问题汇总](scf-video-trouble/README.md)
   * [转码模板的回调URL不支持https](scf-video-trouble/transcode-callback-https.md)
+  * [全景录制中转码函数启动失败问题](scf-video-trouble/full-record-transcode-failed.md)
 * [SCF云函数最佳实践](scf-common-skill/README.md)
   * [SLS Cli方式实现多namespace发布](scf-common-skill/sls-cli-mutil-namespace.md)
   * [API网关开启应用认证](scf-common-skill/apigw-app-auth.md)
