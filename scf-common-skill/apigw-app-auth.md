@@ -6,23 +6,23 @@
 
 函数服务 -> 触发管理 -> API网关触发
 
-![](.apigw-app-auth_images/apigw.png)
+![](.apigw-app-auth\_images/apigw.png)
 
 跳转到 api网关服务 控制台，切换 鉴权类型 为 应用认证
 
-![](.apigw-app-auth_images/app-auth.png)
+![](.apigw-app-auth\_images/app-auth.png)
 
 ## 应用认证配置
 
 API网关控制台，调用凭证 -> 应用 -> 新建
 
-![](.apigw-app-auth_images/app.png)
+![](.apigw-app-auth\_images/app.png)
 
 关联要绑定的API网关服务
 
-![](.apigw-app-auth_images/bind-apigw.png)
+![](.apigw-app-auth\_images/bind-apigw.png)
 
-补充：ApiAppKey  和ApiAppSecret 在应用页面获取
+补充：`ApiAppKey` 和 `ApiAppSecret` 在应用页面获取
 
 ## 认证签名生成
 
