@@ -8,7 +8,7 @@
 
 修改路径是：callback函数 -> 函数管理 -> 函数代码 代码路径是：src -> handlers -> callback-worker.js
 
-![](.full-record-fix-callback-timeout_images/full-recored-callback-fix-code.png)
+![](.full-record-fix-callback-timeout_images/fix-code.png)
 
 修改完成之后，<mark style="color:red;">点击部署</mark>
 
