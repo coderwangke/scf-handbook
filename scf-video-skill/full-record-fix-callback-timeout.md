@@ -6,7 +6,9 @@
 
 ## 修改方式
 
-修改路径是：callback函数 -> 函数管理 -> 函数代码 代码路径是：src -> handlers -> callback-worker.js
+修改路径是：callback函数 -> 函数管理 -> 函数代码 
+
+代码路径是：src -> handlers -> callback-worker.js
 
 ![](.full-record-fix-callback-timeout_images/fix-code.png)
 
