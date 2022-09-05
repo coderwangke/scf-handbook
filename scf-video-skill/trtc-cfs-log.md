@@ -12,16 +12,16 @@
 
 页面路径：函数设置 -> 高级设置 -> 网络配置
 
-![](.trtc-cfs-log\_images/trtc-cfs-网络配置.png)
+![](.trtc-cfs-log_images/trtc-cfs-网络配置.png)
 
 ### 文件系统
 
 开启文件系统，选择期望的 `cfs` 文件系统，并正确设置远程目录和挂载点（本地目录，例如/mnt）
 
-![](.trtc-cfs-log\_images/trtc-cfs.png)
+![](.trtc-cfs-log_images/trtc-cfs.png)
 
 ### 环境变量
 
 通过环境变量 `LOG_PATH` 配置日志路径
 
-![](.trtc-cfs-log\_images/trtc-sdk-env.png)
+![](.trtc-cfs-log_images/trtc-sdk-env.png)
