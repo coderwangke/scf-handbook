@@ -13,3 +13,4 @@
   * [API网关开启应用认证](scf-common-skill/apigw-app-auth.md)
 * [SCF云函数问题排查](scf-common-trouble/README.md)
   * [SCF异步执行场景问题](scf-common-trouble/async-exec.md)
+  * [异常的日志重复问题](scf-common-trouble/scf-dup-log.md)
