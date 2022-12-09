@@ -5,6 +5,7 @@
   * [全景录制的回调超时时间调整](scf-video-skill/full-record-fix-callback-timeout.md)
   * [TRTC 输入在线媒体流的日志配置](scf-video-skill/trtc-cfs-log.md)
   * [全景录制中转cos播放卡顿问题](scf-video-skill/full-record-cos-play-stuck.md)
+  * [ASR语音识别应用实践指导](scf-video-skill/scf-asr-trtc.md)
 * [SCF音视频相关问题汇总](scf-video-trouble/README.md)
   * [转码模板的回调URL不支持https](scf-video-trouble/transcode-callback-https.md)
   * [全景录制中转码函数启动失败问题](scf-video-trouble/full-record-transcode-failed.md)
